@@ -82,7 +82,8 @@ This script interacts with:
 ```
 
 ## Screenshots
-*(Add relevant screenshots of terminal interface, email generation, and inbox checking.)*
+![App Screenshot](Image/Screenshot_20250314-184601_Termux.jpg)
+
 
 ## Issues & Support
 If you encounter any issues, feel free to open an issue on the [GitHub repository](https://github.com/yourusername/yourrepo/issues).
