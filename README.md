@@ -82,7 +82,7 @@ This script interacts with:
 ```
 
 ## Screenshots
-![App Screenshot](Image/Screenshot_20250314-184601_Termux.jpg)
+![App Screenshot](Image/Screenshot.jpg)
 
 
 ## Issues & Support
